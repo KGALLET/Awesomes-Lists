@@ -1,6 +1,6 @@
 # Awesomes-Lists
 
-[Awesome List 1](https://github.com/sindresorhus/awesome) - A collection of list which regroup lots of list
+[Awesome List 1](https://github.com/sindresorhus/awesome) - A collection of list which regroup lots of list  
 [Awesome List 2](https://github.com/bayandin/awesome-awesomeness)  - A second collection of list which regroup lots of list
 
 ## Awesome hacking and security
