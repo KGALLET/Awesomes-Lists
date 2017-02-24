@@ -1,6 +1,7 @@
 # Awesomes-Lists
 
-[Main List](https://github.com/sindresorhus/awesome)
+[Awesome List 1](https://github.com/sindresorhus/awesome)
+[Awesome List 2](https://github.com/bayandin/awesome-awesomeness)
 
 ## Awesome hacking and security
 * [Awesome hacking](https://github.com/carpedm20/awesome-hacking)
